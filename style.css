@@ -284,5 +284,6 @@ select > option {
   .video-fullscreen {
     height: 97.5vh;
     border-radius: 0;
+    transform: translateY(-50%);
   }
 }
